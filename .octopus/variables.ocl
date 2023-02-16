@@ -1,0 +1,3 @@
+variable "VarMain" {
+    value "ValMain" {}
+}
